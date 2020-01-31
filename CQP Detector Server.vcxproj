@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\cqp_detectotron.cpp" />
+    <ClCompile Include="..\cqp_detectotron.cpp">
+      <DeploymentContent>true</DeploymentContent>
+    </ClCompile>
     <ClCompile Include="..\mini_parser.cpp" />
     <ClCompile Include="..\websocket_relay\base64.cpp" />
     <ClCompile Include="..\websocket_relay\sha1.cpp" />

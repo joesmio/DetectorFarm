@@ -865,3 +865,39 @@
 [(-todo-localtime-win-)] Connected to Waterloo box ok.
 [(-todo-localtime-win-)] Startup
 [(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Failed to connect to the waterloo box.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Failed to connect to the waterloo box.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
+[(-todo-localtime-win-)] Startup
+[(-todo-localtime-win-)] Connected to Waterloo box ok.
